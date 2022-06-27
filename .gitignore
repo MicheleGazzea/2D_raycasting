@@ -1,0 +1,26 @@
+## General build artifacts
+*.o
+*.obj
+*.exe
+
+## Visual Studio artifacts
+.vs
+ipch
+*.opensdf
+*.log
+*.pdb
+*.ilk
+*.user
+*.sdf
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+## Project files
+*.filters
+*.sln
+*.vcxproj
+
+x64/
+
+
